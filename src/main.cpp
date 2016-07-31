@@ -1,4 +1,7 @@
+#if defined(WIN32) || defined(_WIN32) || defined(__WIN32)
 #include <Windows.h>
+#endif
+
 #include <imgui.h>
 #include "imgui_impl_glfw_gl3.h"
 #include <stdio.h>
