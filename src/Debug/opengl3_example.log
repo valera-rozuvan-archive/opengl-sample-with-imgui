@@ -1,0 +1,16 @@
+﻿  gl3w.c
+  main.cpp
+c:\dev\github\valera-rozuvan\opengl-sample-with-imgui\src\main.cpp(94): warning C4100: 'nShow': unreferenced formal parameter
+c:\dev\github\valera-rozuvan\opengl-sample-with-imgui\src\main.cpp(94): warning C4100: 'lpComand': unreferenced formal parameter
+c:\dev\github\valera-rozuvan\opengl-sample-with-imgui\src\main.cpp(94): warning C4100: 'hPrevInst': unreferenced formal parameter
+c:\dev\github\valera-rozuvan\opengl-sample-with-imgui\src\main.cpp(94): warning C4100: 'hInst': unreferenced formal parameter
+c:\dev\github\valera-rozuvan\opengl-sample-with-imgui\libs\freeglut\include\gl\freeglut_std.h(623): warning C4505: 'glutInit_ATEXIT_HACK': unreferenced local function has been removed
+c:\dev\github\valera-rozuvan\opengl-sample-with-imgui\libs\freeglut\include\gl\freeglut_std.h(625): warning C4505: 'glutCreateWindow_ATEXIT_HACK': unreferenced local function has been removed
+c:\dev\github\valera-rozuvan\opengl-sample-with-imgui\libs\freeglut\include\gl\freeglut_std.h(627): warning C4505: 'glutCreateMenu_ATEXIT_HACK': unreferenced local function has been removed
+  imgui_impl_glfw_gl3.cpp
+  imgui_draw.cpp
+  imgui_demo.cpp
+  imgui.cpp
+  Generating Code...
+  opengl3_example.vcxproj -> C:\dev\github\valera-rozuvan\opengl-sample-with-imgui\src\Debug\opengl3_example.exe
+  opengl3_example.vcxproj -> C:\dev\github\valera-rozuvan\opengl-sample-with-imgui\src\Debug\opengl3_example.pdb (Full PDB)

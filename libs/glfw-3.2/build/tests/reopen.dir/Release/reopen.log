@@ -1,0 +1,6 @@
+﻿  Building Custom Rule C:/dev/glfw-3.2/tests/CMakeLists.txt
+  CMake does not need to re-run because C:\dev\glfw-3.2\build\tests\CMakeFiles\generate.stamp is up-to-date.
+  reopen.c
+  glad.c
+  Generating Code...
+  reopen.vcxproj -> C:\dev\glfw-3.2\build\tests\Release\reopen.exe

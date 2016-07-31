@@ -1,0 +1,6 @@
+﻿  Building Custom Rule C:/dev/glfw-3.2/tests/CMakeLists.txt
+  CMake does not need to re-run because C:\dev\glfw-3.2\build\tests\CMakeFiles\generate.stamp is up-to-date.
+  timeout.c
+  glad.c
+  Generating Code...
+  timeout.vcxproj -> C:\dev\glfw-3.2\build\tests\Debug\timeout.exe

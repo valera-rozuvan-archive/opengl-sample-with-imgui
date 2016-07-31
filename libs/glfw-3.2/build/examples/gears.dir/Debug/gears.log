@@ -1,0 +1,6 @@
+﻿  Building Custom Rule C:/dev/glfw-3.2/examples/CMakeLists.txt
+  CMake does not need to re-run because C:\dev\glfw-3.2\build\examples\CMakeFiles\generate.stamp is up-to-date.
+  gears.c
+  glad.c
+  Generating Code...
+  gears.vcxproj -> C:\dev\glfw-3.2\build\examples\Debug\gears.exe

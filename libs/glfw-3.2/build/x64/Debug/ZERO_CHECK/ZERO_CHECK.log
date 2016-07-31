@@ -1,0 +1,5 @@
+﻿  Checking Build System
+  CMake does not need to re-run because C:/dev/glfw-3.2/build/CMakeFiles/generate.stamp is up-to-date.
+  CMake does not need to re-run because C:/dev/glfw-3.2/build/src/CMakeFiles/generate.stamp is up-to-date.
+  CMake does not need to re-run because C:/dev/glfw-3.2/build/examples/CMakeFiles/generate.stamp is up-to-date.
+  CMake does not need to re-run because C:/dev/glfw-3.2/build/tests/CMakeFiles/generate.stamp is up-to-date.

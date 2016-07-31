@@ -1,0 +1,8 @@
+﻿  Building Custom Rule C:/dev/glfw-3.2/examples/CMakeLists.txt
+  CMake does not need to re-run because C:\dev\glfw-3.2\build\examples\CMakeFiles\generate.stamp is up-to-date.
+  particles.c
+  tinycthread.c
+  getopt.c
+  glad.c
+  Generating Code...
+  particles.vcxproj -> C:\dev\glfw-3.2\build\examples\Release\particles.exe
